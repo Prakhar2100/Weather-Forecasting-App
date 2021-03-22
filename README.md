@@ -27,23 +27,23 @@ Expo-CLi and Javascript bundles + React-Native-Paper + Weather API's
 
 #### HomeScreen with default city on display
 
-<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1gPLzyzVGiUVgrgub4PYz-xqNW1uMAtlQ" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1gPLzyzVGiUVgrgub4PYz-xqNW1uMAtlQ" style="width: 250px; height: auto" title="Click for the larger version." /></a>
 
 #### SearchCity Screen 
 
-<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1gTuKocE-Jyq5gmPrtXXQzeb8JzdekXzj" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1gTuKocE-Jyq5gmPrtXXQzeb8JzdekXzj" style="width: 250px; height: auto" title="Click for the larger version." /></a>
 
 #### Displaying suggestions while searching
 
-<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1gUlUlUYS72X_BNhjlqod-yeHcoGmqoMa" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1gUlUlUYS72X_BNhjlqod-yeHcoGmqoMa" style="width: 250px; height: auto" title="Click for the larger version." /></a>
 
 #### Displaying weather image icon based on the weather of the location
 
-<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1ggeC0FQ-zLsn0ky3i5vf3VU73KJ38PC7" style="width: 500px; max-width: 100%; height: auto" title="Click for the larger version." /></a>
+<a href="https://drive.google.com/uc?export=view&id="><img src="https://drive.google.com/uc?export=view&id=1ggeC0FQ-zLsn0ky3i5vf3VU73KJ38PC7" style="width: 250px;  height: auto" title="Click for the larger version." /></a>
 
 Video Demonstration
 
-<video width="500" height=auto controls>
+<video width="250" height=auto controls>
   <source src="https://drive.google.com/uc?export=view&id=1gbl3LQpLCqiCJW1NSSOwLvGZR3s36Gyg">
 </video>
 
